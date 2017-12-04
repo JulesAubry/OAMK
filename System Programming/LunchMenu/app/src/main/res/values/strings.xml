@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LunchMenu</string>
+    <string-array name="langages_array">
+        <item>en</item>
+        <item>fr</item>
+        <item>fi</item>
+    </string-array>
+
+</resources>
