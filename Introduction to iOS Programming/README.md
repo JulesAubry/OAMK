@@ -6,4 +6,6 @@ Swift3
 
 Introduction to iOS Programming
 
+Grade : 5/5
+
 OAMK - Fall 2017
